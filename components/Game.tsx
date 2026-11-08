@@ -84,7 +84,10 @@ export function Game() {
       const loaded = (await response.json()) as DailyPuzzle;
       if (cancelled) return;
       const previous = stored.days[date];
-      const matches = previous?.items.every((item, i) => item.itemId === loaded.items[i].id);
+      const matches = previous?.items.every(
+        (item, i) =>
+          item.itemId === loaded.items[i].id && item.priceCents === loaded.items[i].priceCents,
+      );
       const day = previous && matches ? resumeDay(previous) : createDay(loaded, puzzleNumber(date));
       const next = { ...stored, days: { ...stored.days, [date]: day } };
       saveState(getStorage(), next);

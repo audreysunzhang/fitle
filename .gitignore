@@ -7,3 +7,7 @@ next-env.d.ts
 .DS_Store
 test-results/
 playwright-report/
+
+# Local-only real-brand items and images. Never commit or deploy these.
+/content/local/
+/public/local-images/

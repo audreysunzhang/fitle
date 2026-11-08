@@ -42,6 +42,12 @@ images, never scraped or hotlinked ones, and set `imageCredit` when you do.
 Item-specific host lines go in each item's `host` field. The fallback pool is
 `content/host/lines.json`.
 
+## Local-only real items
+
+For a private demo, `content/local/overrides.json` can replace fields on any item by id, with its
+images in `public/local-images/` (use an `imageUrl` like `/local-images/name.jpg`). Both paths are
+git-ignored. Don't commit or deploy them: they aren't licensed for publication.
+
 ## Where things live
 
 - `lib/game/`: all game rules, as pure functions with no framework code

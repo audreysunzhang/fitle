@@ -160,7 +160,7 @@
   display: block;
   width: 100%;
   height: clamp(190px, 36vh, 480px);
-  object-fit: cover;
+  object-fit: contain;
 }
 
 @media (max-width: 759px) {
