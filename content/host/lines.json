@@ -1,0 +1,44 @@
+{
+  "intro": [
+    "Let's see what {brand} thinks this is worth.",
+    "{item}. Take a breath, then name your price.",
+    "{brand} sent this over with a straight face.",
+    "Somewhere, a merchandiser priced this and went to lunch.",
+    "Look closely. The tag is judging you back."
+  ],
+  "firstGuessWin": [
+    "One guess. Are you on {brand}'s payroll?",
+    "First try. I'd like to see your receipts.",
+    "One shot, one snipe. Show-off.",
+    "{price} on the first go. Your group chat should fear you."
+  ],
+  "win": [
+    "Sniped it. Your bank account has seen things.",
+    "{guesses} guesses and you got there. Very chic of you.",
+    "Correct. That knowledge cost someone money.",
+    "There it is. You read a price tag like a novel."
+  ],
+  "lose": [
+    "{price}. For {item}. I need to lie down.",
+    "{price}. Nobody saw that coming, least of all the hanger.",
+    "The answer was {price}. {brand} remains unknowable.",
+    "{price}! Sit with that for a moment. I certainly am."
+  ],
+  "copReaction": [
+    "Into the cart it goes. Bold, and fully funded by optimism.",
+    "A cop at {price}. I respect a decisive wallet.",
+    "Sold. May it survive your closet's politics.",
+    "Yes, fine, I'd borrow it from you."
+  ],
+  "dropReaction": [
+    "Dropped. {item} will have to find love elsewhere.",
+    "Back on the rack. Restraint looks good on you.",
+    "A drop at {price}. Your wallet sends its regards.",
+    "Rejected. {brand} will be devastated, briefly."
+  ],
+  "minorityReaction": [
+    "You {voted} what {otherPct}% {otherVoted}. Range. Or chaos.",
+    "{otherPct}% {otherVoted} it and you {voted} it. Iconic behavior.",
+    "Against {otherPct}% of the room. I do love a dissenting opinion."
+  ]
+}
