@@ -1,0 +1,69 @@
+{
+  "_sample": true,
+  "date": "2026-11-09",
+  "items": [
+    {
+      "id": "2026-11-09-budget",
+      "tier": "budget",
+      "brand": "Pocket Theory",
+      "name": "Ribbed Cotton Tank",
+      "categoryEmoji": "👕",
+      "imageUrl": "placeholder:shirt",
+      "imageAlt": "Illustrated placeholder of the Ribbed Cotton Tank",
+      "priceCents": 1499,
+      "currency": "USD",
+      "retailerName": "Pocket Theory Online",
+      "priceCheckedAt": "2026-11-01",
+      "clues": {
+        "material": "Stretch-ribbed cotton jersey",
+        "detail": "Sold in eleven colors, all of them called neutral",
+        "typicalRange": "$10–$25"
+      },
+      "host": {
+        "intro": "It's a tank. It knows it's a tank. The price may not."
+      }
+    },
+    {
+      "id": "2026-11-09-mid",
+      "tier": "mid",
+      "brand": "Fernwood Supply",
+      "name": "Suede Trucker Jacket",
+      "categoryEmoji": "🧥",
+      "imageUrl": "placeholder:jacket",
+      "imageAlt": "Illustrated placeholder of the Suede Trucker Jacket",
+      "priceCents": 24800,
+      "currency": "USD",
+      "retailerName": "Fernwood Supply Stores",
+      "priceCheckedAt": "2026-11-01",
+      "clues": {
+        "material": "Split suede with a cotton twill lining",
+        "detail": "Tonal stitching and corozo-nut buttons",
+        "typicalRange": "$180–$320"
+      },
+      "host": {
+        "intro": "For people who have never once been near a truck."
+      }
+    },
+    {
+      "id": "2026-11-09-bougie",
+      "tier": "bougie",
+      "brand": "Maison Fable",
+      "name": "Bias-Cut Satin Slip Dress",
+      "categoryEmoji": "👗",
+      "imageUrl": "placeholder:dress",
+      "imageAlt": "Illustrated placeholder of the Bias-Cut Satin Slip Dress",
+      "priceCents": 189000,
+      "currency": "USD",
+      "retailerName": "Galleria Nord",
+      "priceCheckedAt": "2026-11-01",
+      "clues": {
+        "material": "Heavyweight silk satin",
+        "detail": "Finished by hand with French seams",
+        "typicalRange": "$1,400–$2,600"
+      },
+      "host": {
+        "intro": "Essentially a nightgown with an excellent publicist."
+      }
+    }
+  ]
+}

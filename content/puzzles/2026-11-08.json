@@ -1,0 +1,69 @@
+{
+  "_sample": true,
+  "date": "2026-11-08",
+  "items": [
+    {
+      "id": "2026-11-08-budget",
+      "tier": "budget",
+      "brand": "Strand & Co.",
+      "name": "Oversized Linen-Blend Shirt",
+      "categoryEmoji": "👕",
+      "imageUrl": "placeholder:shirt",
+      "imageAlt": "Illustrated placeholder of the Oversized Linen-Blend Shirt",
+      "priceCents": 3990,
+      "currency": "USD",
+      "retailerName": "Strand Online",
+      "priceCheckedAt": "2026-11-01",
+      "clues": {
+        "material": "A linen and cotton blend",
+        "detail": "Dropped shoulders and a single chest pocket",
+        "typicalRange": "$25–$50"
+      },
+      "host": {
+        "intro": "Strand & Co. swears this is 'relaxed.' The ironing board agrees."
+      }
+    },
+    {
+      "id": "2026-11-08-mid",
+      "tier": "mid",
+      "brand": "Harbor Row",
+      "name": "High-Rise Wide-Leg Jean",
+      "categoryEmoji": "👖",
+      "imageUrl": "placeholder:jeans",
+      "imageAlt": "Illustrated placeholder of the High-Rise Wide-Leg Jean",
+      "priceCents": 12800,
+      "currency": "USD",
+      "retailerName": "Harbor Row Stores",
+      "priceCheckedAt": "2026-11-01",
+      "clues": {
+        "material": "Rigid organic-cotton denim",
+        "detail": "Cut and sewn in small runs, with a 31-inch inseam",
+        "typicalRange": "$90–$160"
+      },
+      "host": {
+        "intro": "Wide enough to carry a small argument in each leg."
+      }
+    },
+    {
+      "id": "2026-11-08-bougie",
+      "tier": "bougie",
+      "brand": "Velour Atelier",
+      "name": "Quilted Mini Top-Handle",
+      "categoryEmoji": "👜",
+      "imageUrl": "placeholder:bag",
+      "imageAlt": "Illustrated placeholder of the Quilted Mini Top-Handle",
+      "priceCents": 245000,
+      "currency": "USD",
+      "retailerName": "Galleria Nord",
+      "priceCheckedAt": "2026-11-01",
+      "clues": {
+        "material": "Lambskin with a brushed-brass clasp",
+        "detail": "From the numbered autumn atelier collection",
+        "typicalRange": "$1,800–$3,200"
+      },
+      "host": {
+        "intro": "Fits one lipstick and a great deal of confidence."
+      }
+    }
+  ]
+}

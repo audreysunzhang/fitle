@@ -1,0 +1,69 @@
+{
+  "_sample": true,
+  "date": "2026-11-10",
+  "items": [
+    {
+      "id": "2026-11-10-budget",
+      "tier": "budget",
+      "brand": "Lumen Basics",
+      "name": "Canvas Low-Top Sneaker",
+      "categoryEmoji": "👟",
+      "imageUrl": "placeholder:shoe",
+      "imageAlt": "Illustrated placeholder of the Canvas Low-Top Sneaker",
+      "priceCents": 2995,
+      "currency": "USD",
+      "retailerName": "Lumen Basics Online",
+      "priceCheckedAt": "2026-11-01",
+      "clues": {
+        "material": "Washed cotton canvas with a rubber sole",
+        "detail": "Comes with two sets of laces",
+        "typicalRange": "$20–$40"
+      },
+      "host": {
+        "intro": "A sneaker of few words."
+      }
+    },
+    {
+      "id": "2026-11-10-mid",
+      "tier": "mid",
+      "brand": "Ostara",
+      "name": "Wool-Blend Tailored Trouser",
+      "categoryEmoji": "👖",
+      "imageUrl": "placeholder:jeans",
+      "imageAlt": "Illustrated placeholder of the Wool-Blend Tailored Trouser",
+      "priceCents": 11800,
+      "currency": "USD",
+      "retailerName": "Ostara Stores",
+      "priceCheckedAt": "2026-11-01",
+      "clues": {
+        "material": "A wool and recycled polyester blend",
+        "detail": "Pressed front crease and side-adjuster tabs",
+        "typicalRange": "$85–$150"
+      },
+      "host": {
+        "intro": "Trousers for an office you only visit on Tuesdays."
+      }
+    },
+    {
+      "id": "2026-11-10-bougie",
+      "tier": "bougie",
+      "brand": "Casa Orsolo",
+      "name": "Calfskin Tote",
+      "categoryEmoji": "👜",
+      "imageUrl": "placeholder:bag",
+      "imageAlt": "Illustrated placeholder of the Calfskin Tote",
+      "priceCents": 115000,
+      "currency": "USD",
+      "retailerName": "Galleria Nord",
+      "priceCheckedAt": "2026-11-01",
+      "clues": {
+        "material": "Vegetable-tanned calfskin",
+        "detail": "Stamped inside with the workshop's initials",
+        "typicalRange": "$900–$1,600"
+      },
+      "host": {
+        "intro": "A tote bag, but make it a line item."
+      }
+    }
+  ]
+}
